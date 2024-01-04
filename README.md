@@ -1,5 +1,12 @@
 # xox
-### Not your grandpa's tic-tac-toe
+### Requirements
+Needs javafx 17+ module, as it is not included in JDK anymore. 
+
+Run with flags:
+```
+--module-path /path/to/javafx-sdk-17/lib --add-modules javafx.controls,javafx.fxml
+```
+## Not your grandpa's tic-tac-toe
 
 ![xoxgif](https://github.com/annnkle/xox/assets/95099151/f0058a2f-3684-423f-a91c-7241caf08ac6)
 
